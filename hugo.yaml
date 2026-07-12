@@ -754,7 +754,7 @@ params:
         image: "/image/portfolio.png.jpg"
         featured:
           name:  "Visit Portfolio"
-          link: "https://danielgbelay.github.io"
+          link:  "https://danielgbelay.github.io/"
 
 
         badges:
